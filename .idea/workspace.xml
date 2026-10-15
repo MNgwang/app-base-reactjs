@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f8b6f8e-a7b2-4719-bb92-a54458e31f74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/DOCKERHUB.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Dockerfile" />
+        <option value="GitHub Workflow" />
       </list>
     </option>
   </component>
@@ -74,7 +76,7 @@
       <workItem from="1791468153661" duration="1685000" />
       <workItem from="1791532177994" duration="25000" />
       <workItem from="1791964558838" duration="4478000" />
-      <workItem from="1792069404023" duration="465000" />
+      <workItem from="1792069404023" duration="3578000" />
     </task>
     <servers />
   </component>
